@@ -7,5 +7,5 @@ Neste programa, é possivel executar operações CRUD (Create, Read, Update, Del
 ### Tecnologias usadas
 
 - Java
-- Springboot
+- Spring Boot
 - PostgreSQL
